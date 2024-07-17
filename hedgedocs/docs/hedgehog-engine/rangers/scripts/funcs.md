@@ -23,6 +23,7 @@ Unlocks an achievement.
 
 ### 🗒️ ActivityComplete(number) : unknown
 #### Description
+This function signifies that the activity is complete.
 This function has no callback function.
 #### Parameters
 *Unknown...*
